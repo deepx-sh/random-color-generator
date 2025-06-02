@@ -13,3 +13,6 @@ A fun and interactive color generator that displays a random RGB color with each
 - HTML
 - CSS
 - JavaScript
+
+## 🌐 Live Demo
+[View it here](https://deepx-sh.github.io/random-color-generator/)
